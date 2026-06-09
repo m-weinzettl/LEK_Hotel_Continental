@@ -1,0 +1,29 @@
+Architektur & Muster
+MVC: Strukturierung in Model, View und Controller.
+
+Dependency Injection: RoomManager via Konstruktor übergeben.
+
+Polymorphie: Dynamischer Aufruf von calculatePrice().
+
+Datenstrukturen
+List-Interface: Flexibler Listentyp als Datengrundlage.
+
+LinkedList: Verkettete Liste für dynamische Zimmerverwaltung.
+
+OOP-Konzepte
+Datenkapselung: private Attribute mit Gettern/Settern.
+
+Abstrakte Klasse: Room als nicht-instanziierbare Basis.
+
+Interface: Booking für gemeinsame Verhaltensverträge.
+
+Konstruktor-Chaining: Datenweitergabe via super().
+
+Java-Techniken & Tools
+Pattern Matching (instanceof): Typprüfung und Cast in einem Schritt.
+
+Ternärer Operator: Kompakte Statusabfrage (? :).
+
+Scanner: Konsolen-Eingaben einlesen.
+
+Eingabevalidierung: Absturzsicherung via hasNextInt().
